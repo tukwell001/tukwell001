@@ -14,8 +14,4 @@ I thrive on solving complex problems, streamlining deployment workflows, and bri
  🔒 Focused on **reliability, security, and cost optimization**
  🧰 I love documenting systems and sharing knowledge with my team
 
- 𝗟𝗲𝘀𝘀𝗼𝗻𝘀 𝗟𝗲𝗮𝗿𝗻𝗲𝗱
- • How to structure reusable Terraform modules
- • Managing remote state and locking properly
- • How to debug Terraform effectively 
- • Automating app bootstrap so instances are production-ready on launch
+
